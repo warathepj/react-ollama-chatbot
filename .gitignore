@@ -1,0 +1,9 @@
+/frontend/frontend/node_modules
+/server/node_modules
+/server/model
+/frontend/frontend/txt
+/frontend/frontend/*.txt
+/server/txt
+/server/*.txt
+/txt
+*.txt
